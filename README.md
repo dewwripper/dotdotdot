@@ -1,2 +1,2 @@
 # dotdotdot
-Dot file repo for neovim config
+Dot file repo for multiple software configuration
