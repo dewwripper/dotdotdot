@@ -37,4 +37,5 @@ packer.startup(function(use)
   use 'dinhhuy258/git.nvim'
   use 'williamboman/mason.nvim'
   use 'williamboman/mason-lspconfig.nvim'
+  use 'mg979/vim-visual-multi'
 end)
