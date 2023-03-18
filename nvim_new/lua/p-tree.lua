@@ -40,3 +40,5 @@ require("nvim-tree").setup({
 })
 
 vim.keymap.set('n', '<c-e>', '<cmd>NvimTreeToggle<cr>')
+vim.keymap.set('n', '<Tab>', '<cmd>bnext<cr>')
+vim.keymap.set('n', '<S-Tab>', '<cmd>bprev<cr>')
